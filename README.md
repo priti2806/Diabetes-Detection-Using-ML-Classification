@@ -1,2 +1,3 @@
-# Diabetes-Detection-Using-ML-Classification
-Diabetes detection using machine learning involves analyzing patient health metrics to predict diabetes risk, enabling early diagnosis and personalized intervention strategies.
+🩺 Diabetes Dataset
+This dataset includes medical data from Pima Indian women, such as glucose level, BMI, insulin, and age. The target variable indicates whether the patient has diabetes (1) or not (0). It’s widely used for binary classification and early disease prediction using ML models.
+
